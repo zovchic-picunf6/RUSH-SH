@@ -1,0 +1,2 @@
+output_mode 0
+output_path out.txt
